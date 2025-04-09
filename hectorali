@@ -24,8 +24,7 @@ window.runParams = window.runParams || {};
 window.runParams.useNewSubCategory = true;
 
 
-</script>
-<noscript>Your browser does not support JavaScript!</noscript>
+
 
 
 
